@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watani632.github.io/ResourcefulTeK/sitemap.xml
